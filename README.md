@@ -224,22 +224,3 @@ O(n)
 ```
 
 ---
-
-# 📷 Example Result
-
-The generated visualization shows:
-
-- coloured triangles filling the polygon interior
-- white regions representing holes
-- red star markers indicating guard locations
-- an information box displaying the number of vertices, triangles, guards, and holes
-
----
-
-# 👨‍💻 Authors
-
-- Harshith  
-- Team Member  
-
-Design and Analysis of Algorithms – Assignment 2  
-Art Gallery Problem
